@@ -131,7 +131,7 @@ mvn clean package
 ```bash
 java -jar target/shiftytplaylists-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
-
+---
 ## Troubleshooting
 
 Make sure your YouTube playlist is public or unlisted.  
