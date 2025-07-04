@@ -50,7 +50,7 @@ sudo apt install maven
 
 ##### Windows
 
-Download and install from `https://maven.apache.org/download.cgi`
+Download and install from `https://maven.apache.org/download.cgi`    
 Add Maven bin folder to your system's Path.
 
 ---
