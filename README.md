@@ -51,7 +51,7 @@ sudo apt install maven
 ##### Windows
 
 Download and install from `https://maven.apache.org/download.cgi`    
-Add Maven bin folder to your system's Path.
+Add Maven's `bin` folder to your system's `PATH` environment variable.
 
 ---
 
@@ -134,9 +134,8 @@ java -jar target/shiftytplaylists-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Troubleshooting
 
-Make sure your YouTube playlist is public or unlisted.
-Auto-generated YouTube "Mixes" (e.g. list=RD...) are not supported by the YouTube API.
-Use only links like:
-https://www.youtube.com/playlist?list=PLxxxxxxxxxxxx
+Make sure your YouTube playlist is public or unlisted.  
+Auto-generated YouTube "Mixes" (e.g. list=RD...) are not supported by the YouTube API.  
+Use only links like: `https://www.youtube.com/playlist?list=PLxxxxxxxxxxxx`
 
 ---
