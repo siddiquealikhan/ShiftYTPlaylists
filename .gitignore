@@ -1,0 +1,19 @@
+# Maven build output
+/target/
+
+# IDE files
+*.iml
+.idea/
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/config files (example, do not commit real keys)
+.env
+.env.*
+
+# Java crash logs
+hs_err_pid* 
