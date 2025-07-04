@@ -31,7 +31,7 @@ sudo apt install openjdk-17-jdk
 
 ##### Windows
 
-Download and install from `bash https://javadl.oracle.com/webapps/download/AutoDL?xd_co_f=OTQxNDYxYTQtNzZmMy00NzliLTk5MDEtZWZmOGU0NzI5OTc5&BundleId=252044_8a1589aa0fe24566b4337beee47c2d29 `
+Download and install from `https://javadl.oracle.com/webapps/download/AutoDL?xd_co_f=OTQxNDYxYTQtNzZmMy00NzliLTk5MDEtZWZmOGU0NzI5OTc5&BundleId=252044_8a1589aa0fe24566b4337beee47c2d29 `
 
 ### Install Maven
 
@@ -50,7 +50,7 @@ sudo apt install maven
 
 ##### Windows
 
-Download and install from `bash https://maven.apache.org/download.cgi`
+Download and install from `https://maven.apache.org/download.cgi`
 Add Maven bin folder to your system's Path.
 
 ---
